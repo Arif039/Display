@@ -1,0 +1,152 @@
+
+*{}
+.body{}
+.header{}
+.header-line{
+    border-bottom: 1px solid #73737354;
+    box-shadow: 0px 9px 0px 0px;
+    padding: 26px 5px !important;
+}
+.logo{}
+.logo img{}
+.social{}
+.social ul{}
+.social ul li{
+    position: relative;
+}
+.social ul li img{
+    padding: 0 3px;
+}
+.hand{
+    position: absolute;
+    right: 0;
+    left: 326px;
+    top: 10px;
+}
+
+.navbar{
+    padding-left: 0px !important;
+}
+
+.navbar-brand{}
+.navbar-nav{}
+.navbar-nav a{
+    text-transform: uppercase;
+    color: #737373 !important;
+    font-weight: 600;
+}
+.navbar-nav a:hover{
+    color: #2dcc70 !important;
+}
+
+.background{
+    position: relative;
+}
+.background img{}
+
+.monitor{
+    position: absolute;
+    right: 0px;
+    left: 293px;
+    bottom: 0;
+    top: 0;
+    transform: translateY(240px);
+    height: 475px;
+}
+.monitor img{}
+
+.content-1{
+    margin-top: 140px;
+    padding: 0 7px;
+    color: #00000069;
+    font-weight: 600;
+}
+.content-1 p{
+    padding: 0 95px;
+    text-align: center;
+}
+
+.btn-custom{
+    display: block;
+    margin: 0 auto;
+    background: #2dcc70;
+    color: white;
+    text-transform: uppercase;
+    padding: 4px 19px;
+    text-weight: 600 !important;
+}
+.btn-custom:hover{}
+
+.better{
+    padding-top: 84px;
+    padding-bottom: 44px;
+}
+
+.content-4{
+    text-align: end;
+}
+.content-4 img{}
+
+.content-2{}
+.content-2 h4{
+    text-transform: uppercase;
+    color: #737373;
+    padding-bottom: 8px;
+}
+.content-2 p{
+    font-size: 15px;
+    color: #737373b8;
+}
+.one{}
+.two{}
+
+.footer{
+    background: #322F2F;
+    padding: 30px;
+}
+.ready{}
+.ready h2{
+    color: white;
+    text-transform: uppercase;
+    font-size: 27px;
+}
+
+.find{
+    text-align: center;
+}
+.custom-two{
+    background: #2dcc70;
+    color: white;
+    text-transform: uppercase;
+    padding: 6px;
+    font-weight: 600;
+}
+.top-footer{}
+.copyright{}
+.copyright h6{
+    text-transform: uppercase;
+    font-size: 15px;
+    padding-top: 13px;
+    color: #A8A8A8;
+}
+
+.reserved{}
+.reserved ul{}
+.reserved ul li{}
+.reserved ul li a{
+    color: #A8A8A8;
+}
+.reserved ul li a::after{
+    content: "/" ;
+    padding-left: 10px;
+}
+.reserved ul li:last-child a::after{
+    content: "";
+    
+    
+} 
+
+
+
+
+
